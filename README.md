@@ -92,7 +92,7 @@ Paste the CIDs above into any free IPFS pinning service (e.g. Pinata, web3.stora
 
 Download the full offline archive (all 100 images + all metadata) and keep it on your own drive:
 
-> **[Archive download link — to be filled in]**
+> > **[Download the full archive (276 MB)](https://github.com/love-for-peace/love-for-peace-archive/releases/download/v1.0/love-for-peace.zip)**
 > (e.g. GitHub release, Arweave, or any permanent storage)
 
 For truly permanent storage, consider uploading the archive to **Arweave** (pay once, stored forever) — a natural fit for a commemorative project.
